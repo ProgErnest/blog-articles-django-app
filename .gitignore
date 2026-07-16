@@ -1,0 +1,17 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# environnemnt
+.env
+venv/
+
+#BD
+db.sqlite3
+
+#Statics files
+/static/
+
+#VsCOde
+.vscode/
